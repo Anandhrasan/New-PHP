@@ -1,4 +1,3 @@
 <?php 
-echo "Bookinguser";
-
+    echo "Bookinguser";
 ?>
