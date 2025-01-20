@@ -1,4 +1,5 @@
 <?php 
-    echo "auth";
+    echo "authusers";
+    
     die;
 ?>
