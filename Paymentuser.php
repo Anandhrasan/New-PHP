@@ -1,4 +1,5 @@
 <?php 
-    echo "Paymentuser";
+    echo "Paymentusers";
+    
     die;
 ?>
