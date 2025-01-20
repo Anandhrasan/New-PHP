@@ -1,4 +1,5 @@
 <?php 
-    echo "Bookinguser";
+    echo "Bookingusers";
+    
     die;
 ?>
